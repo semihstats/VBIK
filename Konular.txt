@@ -41,6 +41,6 @@ PYTHON
 7.4- return kullanımı
 7.5- Birden fazla değer döndüren fonksiyon yazımı
 
-9- Modüller ve kütüphaneler
-9.1- Sisteme kütüphane indirme, silme ve belirli bir kütüphane sürümünü indirme
-9.2- Kütüphanenin içe aktarılması
+8- Modüller ve kütüphaneler
+8.1- Sisteme kütüphane indirme, silme ve belirli bir kütüphane sürümünü indirme
+8.2- Kütüphanenin içe aktarılması
