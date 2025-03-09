@@ -1,0 +1,46 @@
+PYTHON
+
+1- (print(), type(), input(), len()) fonksiyonları, değişken atama
+1.1.1- Basit print() kullanımı
+1.1.2- Yan yana iki bağımsız ifadenin yazımı
+1.1.3- Değişkenler ile print() kullanımı
+1.1.4- f-string kullanımı
+1.2- type() fonksiyonu ile veri tipi öğrenme.
+1.3- len() fonksiyonu ile dizinin uzunluğunu öğrenme.
+1-4- input() fonksiyonu ile kullanıcıdan girdi alma
+
+2- Veri tipleri
+2.1- Sayısal veri tipleri(int,float,complex)
+2.2- Matıksal veri tipi(bool)
+2.3- Dizisel veri tipleri(str, list, tuple, range)
+2.4- Küme veri tipi(set)
+2.5- Eşleşmeli veri tipleri(dict)
+ 
+3- Operatörler
+3.1- Aritmatik operatörler
+3.2- Karşılaştırma operatörleri
+3.3- Matıksal operatörler
+3.4- Atama operatörleri
+
+4- Koşullu ifadeler
+4.1- Temel if kullanımı
+4.2- if-else kullanımı
+4.3- if-elif-else kullanımı
+
+5- Basit hesap makinesi yapımı
+
+6- Döngüler
+6.1- For döngüsü
+6.2- While döngüsü
+6.3- Döngü kontrolü(break,continue, pass)
+
+7- Fonksiyon yazımı
+7.1- Basit fonksiyon yazımı
+7.2- Parametre ile fonksiyon yazımı
+7.3- Varsayılan parametreli fonksiyon yazımı
+7.4- return kullanımı
+7.5- Birden fazla değer döndüren fonksiyon yazımı
+
+9- Modüller ve kütüphaneler
+9.1- Sisteme kütüphane indirme, silme ve belirli bir kütüphane sürümünü indirme
+9.2- Kütüphanenin içe aktarılması
